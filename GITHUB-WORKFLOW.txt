@@ -1,0 +1,104 @@
+================================================================================
+         🚀 URBANNEST GITHUB DEPLOYMENT WORKFLOW
+================================================================================
+
+STEP 1: CREATE ACCOUNT
+┌─────────────────────────────┐
+│  github.com/signup          │
+│  Email: your@email.com      │
+│  Create password            │
+│  Verify email               │
+│  ✅ Account ready!          │
+└─────────────────────────────┘
+         ⬇️ (1 minute)
+
+STEP 2: CREATE REPOSITORY
+┌─────────────────────────────┐
+│  Click "+" → New Repository │
+│  Name: urbannest            │
+│  Visibility: Public         │
+│  Create repo                │
+│  ✅ Repo created!           │
+└─────────────────────────────┘
+         ⬇️ (1 minute)
+
+STEP 3: UPLOAD 11 FILES
+┌─────────────────────────────┐
+│  Click "uploading files"    │
+│  Drag & drop 11 files:      │
+│  • index.html               │
+│  • Code.gs                  │
+│  • 6 PNG images             │
+│  • README.md                │
+│  • .gitignore               │
+│  Commit changes             │
+│  ✅ Files uploaded!         │
+└─────────────────────────────┘
+         ⬇️ (2 minutes)
+
+STEP 4: ENABLE PAGES
+┌─────────────────────────────┐
+│  Settings → Pages           │
+│  Source: main branch        │
+│  Folder: / (root)           │
+│  Save                       │
+│  ✅ Pages enabled!          │
+└─────────────────────────────┘
+         ⬇️ (2 minutes build)
+
+STEP 5: WEBSITE LIVE! 🎉
+┌─────────────────────────────┐
+│  https://USERNAME.github.io │
+│  /urbannest/                │
+│                             │
+│  All features working:      │
+│  ✅ Images loaded           │
+│  ✅ Forms working           │
+│  ✅ Links functional        │
+│  ✅ Mobile responsive       │
+│  ✅ LIVE & SHAREABLE!       │
+└─────────────────────────────┘
+
+================================================================================
+                            TOTAL TIME: 5 MINUTES
+================================================================================
+
+FILES UPLOADED TO GITHUB:
+├── 📄 index.html              (Main website)
+├── 📄 Code.gs                 (Form backend)
+├── 🖼️  logo.png                (Logo)
+├── 🖼️  kitchen.png             (Portfolio 1)
+├── 🖼️  bedroom.png             (Portfolio 2)
+├── 🖼️  dining.png              (Portfolio 3)
+├── 🖼️  living-room.png         (Portfolio 4 + Hero)
+├── 🖼️  moodboard.png           (About section)
+├── 📝 README.md               (Info)
+├── 📝 GITHUB-DEPLOY.md        (Instructions)
+└── ⚙️  .gitignore              (Config)
+
+RESULT:
+┌────────────────────────────────────────┐
+│  Professional Website                  │
+│  ✅ Free Hosting (GitHub Pages)        │
+│  ✅ HTTPS Security (Automatic)         │
+│  ✅ All Features Working               │
+│  ✅ No Monthly Costs                   │
+│  ✅ Easy to Update                     │
+│  ✅ Global CDN (Fast)                  │
+│  ✅ Version Control (Git)              │
+│  ✅ Custom Domain Ready                │
+└────────────────────────────────────────┘
+
+YOUR WEBSITE URL:
+https://YOUR-USERNAME.github.io/urbannest/
+
+SHARE THIS LINK WITH:
+📱 Clients
+📧 Email campaigns
+📌 Instagram bio
+🔗 Business cards
+📊 Portfolio
+
+================================================================================
+                    READY TO UPLOAD? START WITH QUICK-START.md
+================================================================================
